@@ -1,3 +1,3 @@
 # CSC2515YOLOPedestrianDetection
 
-* Push to main only if your change only affects your script
+* Push to main only if your change only affects your own script
